@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     
-    <label for="City"><b>City</b></label>
-    <input type="text" placeholder="Enter City" name="City" id="City" required>
+    <label for="town"><b>town</b></label>
+    <input type="text" placeholder="Enter town" name="town" id="town" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
